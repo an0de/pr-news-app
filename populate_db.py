@@ -43,7 +43,7 @@ user2 = User.objects.create(
 )
 
 Article.objects.create(
-    title="News 1. Migration crysis",
+    title="News 1. Migration shortage",
     content="No migrations to apply.",
     author=user1,
 )
